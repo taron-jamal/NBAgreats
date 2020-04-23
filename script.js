@@ -13,5 +13,5 @@
 // 4. Remove "Julius Irving" from the array.
     array.shift();
 
-// 5. Sort the array in reverse order. (Not alphabetical, but reverse
+// 5. Sort the array in reverse order. (Not alphabetical, but reverse the order).
     array.reverse();
